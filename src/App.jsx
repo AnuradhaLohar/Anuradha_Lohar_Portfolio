@@ -29,8 +29,8 @@ const App = () => {
       <main className="max-w-7xl mx-auto pt-16 space-y-16">
         <Hero header={data.header} summary={data.summary} />
         <Skills skills={data.skills} />
-        <Experience experience={data.experience} />
         <Projects projects={data.projects} />
+        <Experience experience={data.experience} />
         <Education education={data.education} />
         <Certifications certifications={data.certifications} />
         <Contact header={data.header} />

@@ -13,8 +13,8 @@ function Header({ header, summary }) {
   const navItems = [
     "home",
     "skills",
-    "experience",
     "projects",
+    "experience",
     "education",
     "certifications",
     "contact",
