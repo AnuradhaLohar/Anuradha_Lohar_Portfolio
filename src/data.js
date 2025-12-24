@@ -26,14 +26,17 @@ const data = {
   },
   experience: [
     {
-      title: "Development Intern",
-      company: "Revolution IT Solution",
-      duration: "Jun 2024 - Oct 2024",
+      title: "React Developer Intern",
+      company: "SK Bit Software Solution Pvt Ltd. Pune",
+      duration: "Jun 2025 – Nov 2025",
       details: [
-        "Developed responsive web applications using React.js, HTML, CSS, and JavaScript.",
-        "Built and integrated REST APIs using Node.js & Express.js.",
-        "Debugged and optimized multiple modules, boosting performance by 25%.",
-        "Collaborated in Agile teams to design and deliver scalable UI components.",
+        "Developed and maintained responsive web applications using React.js, JavaScript, and Tailwind CSS.",
+        "Built a full-stack AI chat application (Gemini Clone) with React frontend and Node.js backend.",
+        "Implemented JWT-based authentication, protected routes, and role-based access control.",
+        "Integrated REST APIs using Axios and handled async data with proper error handling.",
+        "Used Redux Toolkit for global state management and optimized component re-renders.",
+        "Collaborated with backend APIs (Node.js, MongoDB) to manage chat history and user data."
+
       ],
     },
   ],
