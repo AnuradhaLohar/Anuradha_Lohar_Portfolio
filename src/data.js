@@ -1,4 +1,4 @@
- const data = {
+const data = {
   header: {
     name: "Anuradha Lohar",
     title: "Full Stack Developer (MERN Stack)",
@@ -39,22 +39,39 @@
   ],
   projects: [
     {
-      name: "Todo List App (React)",
-      date: "Mar 2025",
+      title: "Gemini Clone",
       description:
-        "A task management app with add, edit, and delete features using React Hooks and Local Storage for persistence.",
-      technologies: ["React Hooks", "Local Storage", "State Management"],
-      demoLink: "https://anuradhalohar-todoapp.netlify.app/",
+        "AI chat application with JWT authentication and chat history storage.",
+      tech: "React, Node.js, Express, MongoDB",
+      live: "https://frontend-gemini-eight.vercel.app/",
+      github: "https://github.com/AnuradhaLohar",
     },
     {
-      name: "50+ Mini Projects",
-      date: "Jul 2024 - Sep 2024",
+      title: "Mega Blog App",
       description:
-        "A collection of small projects including calculators, games, and form validations to strengthen core logic and frontend skills.",
-      technologies: ["JavaScript", "HTML", "CSS"],
-      demoLink: "https://anuradhalohar.github.io/All_Projects/",
+        "Full blog platform with authentication, CRUD features, and rich text editor.",
+      tech: "React, Appwrite, Tailwind CSS",
+      live: "https://mega-blog-app-omega.vercel.app/",
+      github: "https://github.com/AnuradhaLohar",
+    },
+    {
+      title: "Todo List App",
+      description:
+        "Task manager with CRUD operations and localStorage support.",
+      tech: "React",
+      live: "https://anuradhalohar-todoapp.netlify.app/",
+      github: "https://github.com/AnuradhaLohar",
+    },
+    {
+      title: "50+ Mini Projects",
+      description:
+        "Collection of HTML, CSS, and JavaScript mini projects.",
+      tech: "HTML, CSS, JavaScript",
+      live: "https://anuradhalohar.github.io/All_Projects/",
+      github: "https://github.com/AnuradhaLohar",
     },
   ],
+
   education: [
     {
       degree: "B. Tech (Information Technology)",
