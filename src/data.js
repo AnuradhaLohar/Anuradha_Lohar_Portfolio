@@ -39,38 +39,44 @@ const data = {
   ],
   projects: [
     {
-      title: "Gemini Clone",
+      name: "Gemini Clone",
+      date: "Sep 2025 – Nov 2025",
       description:
         "AI chat application with JWT authentication and chat history storage.",
-      tech: "React, Node.js, Express, MongoDB",
-      live: "https://frontend-gemini-eight.vercel.app/",
+      tech: ["React", "Node.js", "Express", "MongoDB"],
+      demoLink: "https://frontend-gemini-eight.vercel.app/",
       github: "https://github.com/AnuradhaLohar",
     },
     {
-      title: "Mega Blog App",
+      name: "Mega Blog App",
+      date: "Apr 2025 – May 2025",
       description:
         "Full blog platform with authentication, CRUD features, and rich text editor.",
-      tech: "React, Appwrite, Tailwind CSS",
-      live: "https://mega-blog-app-omega.vercel.app/",
+      tech: ["React", "Appwrite", "Tailwind CSS"],
+      demoLink: "https://mega-blog-app-omega.vercel.app/",
       github: "https://github.com/AnuradhaLohar",
     },
     {
-      title: "Todo List App",
+      name: "Todo List App",
+      date: "Mar 2025",
       description:
         "Task manager with CRUD operations and localStorage support.",
-      tech: "React",
-      live: "https://anuradhalohar-todoapp.netlify.app/",
+      tech: ["React"],
+      demoLink: "https://anuradhalohar-todoapp.netlify.app/",
       github: "https://github.com/AnuradhaLohar",
     },
     {
-      title: "50+ Mini Projects",
+      name: "50+ Mini Projects",
+      date: "Dec 2024 – Jan 2025",
       description:
         "Collection of HTML, CSS, and JavaScript mini projects.",
-      tech: "HTML, CSS, JavaScript",
-      live: "https://anuradhalohar.github.io/All_Projects/",
+      tech: ["HTML", "CSS", "JavaScript"],
+      demoLink: "https://anuradhalohar.github.io/All_Projects/",
       github: "https://github.com/AnuradhaLohar",
     },
   ],
+
+
 
   education: [
     {
