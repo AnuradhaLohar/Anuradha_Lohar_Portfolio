@@ -16,7 +16,6 @@ function Header({ header, summary }) {
     "projects",
     "experience",
     "education",
-    "certifications",
     "contact",
   ];
   return (

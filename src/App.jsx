@@ -32,7 +32,7 @@ const App = () => {
         <Projects projects={data.projects} />
         <Experience experience={data.experience} />
         <Education education={data.education} />
-        <Certifications certifications={data.certifications} />
+        {/* <Certifications certifications={data.certifications} /> */}
         <Contact header={data.header} />
       </main>
       <Footer/>
