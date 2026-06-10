@@ -62,7 +62,7 @@ const data = {
     {
       title: "MERN Stack Developer Intern",
       company: "SK Bit Software Solution Pvt Ltd. Pune",
-      duration: "(Oct 2025 – Apr 2026)",
+      duration: "(Oct 2025 – May 2026)",
       details: [
         "Developed and maintained responsive web applications using React.js, JavaScript, and Tailwind CSS.",
         "Built a full-stack AI chat application (Gemini Clone) with React frontend and Node.js backend.",
